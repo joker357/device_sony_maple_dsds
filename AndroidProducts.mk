@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_maple_dsds.mk
+    $(LOCAL_DIR)/exthm_maple_dsds.mk
 
 COMMON_LUNCH_CHOICES := \
-    havoc_maple_dsds-user \
-    havoc_maple_dsds-userdebug \
-    havoc_maple_dsds-eng
+    exthm_maple_dsds-user \
+    exthm_maple_dsds-userdebug \
+    exthm_maple_dsds-eng
